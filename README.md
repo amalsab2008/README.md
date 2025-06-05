@@ -40,8 +40,8 @@ I believe in the power of continuous learning, and I’m always excited to work 
 ## 📫 Let's Connect
 
 - Email: amalsab2008@gmail.com  
-- LinkedIn: [YourLinkedInURL](https://www.linkedin.com/in/amal-s-359b05316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- GitHub: [@yourusername](https://github.com/amalsab2008)  
+- LinkedIn: [LinkedInURL](https://www.linkedin.com/in/amal-s-359b05316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- GitHub: [Github account](https://github.com/amalsab2008)  
 
 ---
 
